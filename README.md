@@ -108,7 +108,7 @@ Archivo incluido en el repositorio:
 ├── 02_unit_economics_analysis.ipynb
 ├── Dashboard_2.pdf
 ├── README.md
-└── data/
+└── Financials/
 
 ---
 
