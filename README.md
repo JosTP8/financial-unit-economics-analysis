@@ -1,5 +1,5 @@
 # 📘 Financial Unit Economics & Profitability Analysis
-**Proyecto 2 — Portafolio Data Analyst | 2025**  
+**Portafolio Data Analyst | 2025**  
 Análisis de rentabilidad y economía unitaria de un producto financiero
 
 ---
